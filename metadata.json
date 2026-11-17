@@ -1,0 +1,6 @@
+{
+  "name": "Rhine Lab Terminal & Eco-Sim Workstation",
+  "description": "An interactive Rhine Lab style scientific terminal and Muelsyse ecological manifold simulation workstation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
